@@ -1,6 +1,18 @@
 المتطلبات المسبقة:
 bash
 pip install requests ip2geotools geopy folium tk
+
+
+
+
+
+
+
+
+
+
+
+
 كيفية الاستخدام:
 قم بتشغيل البرنامج
 
